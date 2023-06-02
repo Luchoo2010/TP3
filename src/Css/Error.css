@@ -1,0 +1,19 @@
+.foto{
+    margin-top: 100px;
+    width: 700px;
+    height: 500px;
+    margin-left: 400px;
+    
+}
+
+.texto{
+    margin-left: 600px; 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.todoE{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(173, 119, 119);
+}

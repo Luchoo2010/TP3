@@ -1,0 +1,30 @@
+.izq{
+    width: 50%;     
+    display: block ;
+    left:20px;  
+    margin-top: 80px;
+   
+}
+
+ .derecha{
+    width: 50%;     
+    margin-top: 80px;
+   
+}
+.pantallaDividida{
+    display: flex ;
+}
+
+
+.botonC{
+    margin-left: 180px;
+    border-radius: 20px;
+    
+}
+
+.todoA{
+    background-color: antiquewhite;
+    
+}
+
+
